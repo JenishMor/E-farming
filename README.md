@@ -8,7 +8,7 @@
 ## Try to Login with invalid details
 ![Screenshot (701)](https://user-images.githubusercontent.com/82307389/166183635-1287e3f7-f27b-4536-a32d-894fa88c50c2.png)
 
-## Error shows when filled data is incorrect.
+## Error shows when entered data is incorrect.
 ![Screenshot (702)](https://user-images.githubusercontent.com/82307389/166183673-688fe435-043d-4fba-b345-c74b408ac9a3.png)
 
 ## Signup page
